@@ -1,9 +1,10 @@
-#Shvetz Aleksandr
+# Shvetz Aleksandr
+
 _Junior frontend developer_
 
 ---
 
-##Contacts
+## Contacts
 
 - **Location:** Dushanbe, Tajikistan
 - **Phone:** +992 933-01-11-51
@@ -13,13 +14,13 @@ _Junior frontend developer_
 
 ---
 
-##About Me
+## About Me
 
 I'm a coder, I want to raise my skills to the level of a fronted developer, I'm ready for a long hard work.
 
 ---
 
-##Skills
+## Skills
 
 ---
 
@@ -35,26 +36,26 @@ I'm a coder, I want to raise my skills to the level of a fronted developer, I'm 
 
 ---
 
-##Code Example
+## Code Example
 
 ---
 
-\`\`\`
+```javascript
 function toCamelCase(str) {
-return str.replace(/[-\_](.)/g, (\_, c) => c.toUpperCase());
+	return str.replace(/[-\_](.)/g, (\_, c) => c.toUpperCase());
 }
 
 console.log(toCamelCase('the-stealth-warrior'));
 console.log(toCamelCase('The_Stealth_Warrior'));
-\`\`\`
+```
 
 ---
 
-##Experience
+## Experience
 
 ---
 
-##Education
+## Education
 
 ---
 
@@ -65,7 +66,7 @@ console.log(toCamelCase('The_Stealth_Warrior'));
 
 ---
 
-##English
+## English
 
 ---
 
