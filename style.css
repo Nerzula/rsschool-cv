@@ -1,0 +1,186 @@
+@font-face {
+	font-family: 'Calibri';
+	src: url('../fonts/Calibri.woff2') format('woff2'),
+		url('../fonts/Calibri.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Calibri';
+	src: url('../fonts/Calibri-Bold.woff2') format('woff2'),
+		url('../fonts/Calibri-Bold.woff') format('woff');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
+
+* {
+	padding: 0px;
+	margin: 0px;
+	border: 0px;
+}
+*,
+*:before,
+*:after {
+	box-sizing: border-box;
+}
+:focus,
+:active {
+	// outline: none;
+}
+a:focus,
+a:active {
+	// outline: none;
+}
+html,
+body {
+	height: 100%;
+}
+body {
+	color: $mainColor;
+	line-height: 1;
+	font-family: $fontFamily;
+	font-size: 14px;
+	-ms-text-size-adjust: 100%;
+	-moz-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+input,
+button,
+textarea {
+	font-family: $fontFamily;
+	font-size: inherit;
+}
+button {
+	cursor: pointer;
+	color: inherit;
+	background-color: transparent;
+}
+a {
+	color: inherit;
+	text-decoration: none;
+}
+ul li {
+	list-style: none;
+}
+img {
+	vertical-align: top;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: inherit;
+	font-size: inherit;
+}
+
+.page {
+}
+.page__container {
+}
+.page__holder {
+}
+.page__info-person {
+}
+.person {
+}
+.person__about {
+}
+.person__header {
+}
+.person__avatar {
+}
+.person__img {
+}
+.person__body {
+}
+.person__fullname {
+}
+.person__job {
+}
+.person__contacts {
+}
+.contacts {
+}
+.contacts__item {
+}
+.contacts__link {
+}
+.contacts__icon {
+}
+.contacts__item-contacts {
+}
+.person__section {
+}
+.person__title {
+}
+.person__industry {
+}
+.industry {
+}
+.industry__item {
+}
+.industry__descr {
+}
+.person__list-descr {
+}
+.person__line-descr {
+}
+.person__title-descr {
+}
+.person__item-descr {
+}
+.person__sociales {
+}
+.sociales {
+}
+.sociales__item {
+}
+.sociales__link {
+}
+.sociales__icon {
+}
+.section__icon {
+}
+.person__title-hobbie {
+}
+.person__hobbies {
+}
+.hobbies {
+}
+.hobbies__item {
+}
+.hobbies__icon {
+}
+.hobbies__descr {
+}
+.page__info-education {
+}
+.education {
+}
+.education__section {
+}
+.education__title-main {
+}
+.education__content {
+}
+.education__title {
+}
+.education__descr {
+}
+.education__data {
+}
+.education__text {
+}
+.education__list {
+}
+.education__item {
+}
+.education__technology {
+}
