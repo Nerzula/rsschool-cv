@@ -1,2 +1,2 @@
-https://Nerzula.github.io/rsschool-cv/cv
-https://Nerzula.github.io/rsschool-cv/
+https://.github.io/rsschool-cv/cv
+https://.github.io/rsschool-cv/
